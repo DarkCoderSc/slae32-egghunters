@@ -8,7 +8,7 @@
 
 	---
 
-	SLAE32 Level 3 : Linux x86-32 Egg Hunter Research.
+	SLAE32 Assignment 3 : Linux x86-32 Egg Hunter Research.
 */
 
 #include <stdio.h>
