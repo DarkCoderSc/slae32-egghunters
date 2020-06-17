@@ -1,3 +1,5 @@
+Student ID: **SLAE-1530**
+
 # SLAE32 Assignment 3 - Egg Hunters
 
 ## Egg Hunter Principle (No Code Execution)
